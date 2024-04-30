@@ -1,0 +1,6 @@
+# Slaatsetal_2023_Jneurosci
+
+In this repository you can find the pipelines used for data analysis in the paper:
+Slaats, S., Weissbart, H., Schoffelen, J. M., Meyer, A. S., & Martin, A. E. (2023). Delta-band neural responses to individual words are modulated by sentence processing. Journal of Neuroscience, 43(26), 4867-4883.
+
+Description: Human language is unprecedented in its combinatorial capacity: we are capable of producing and understanding sentences we have never heard before. Although the mechanisms underlying this capacity have been thoroughly described in formal linguistics, how they are implemented in the brain remains to a large extent unknown. A large body of recent work from the cognitive neuroscientific literature implies a role for delta-band neural activity in the representation of linguistic structure and meaning. In this work, we combine these insights and techniques with findings from psycholinguistics to show that meaning is more than the sum of its parts: the delta-band MEG signal differentially reflects lexical information in- and outside of sentence structures.

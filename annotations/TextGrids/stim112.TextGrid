@@ -1,0 +1,264 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.198333333333333 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllableid" 
+        xmin = 0 
+        xmax = 4.198333333333333 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.05000569452988462 
+            text = "" 
+        intervals [2]:
+            xmin = 0.05000569452988462 
+            xmax = 0.2851126224208666 
+            text = "mijn" 
+        intervals [3]:
+            xmin = 0.2851126224208666 
+            xmax = 0.5515569750106014 
+            text = "aar" 
+        intervals [4]:
+            xmin = 0.5515569750106014 
+            xmax = 0.6399928930503789 
+            text = "di" 
+        intervals [5]:
+            xmin = 0.6399928930503789 
+            xmax = 0.7967612599488612 
+            text = "ge" 
+        intervals [6]:
+            xmin = 0.7967612599488612 
+            xmax = 0.9506302335353118 
+            text = "co" 
+        intervals [7]:
+            xmin = 0.9506302335353118 
+            xmax = 1.1709044206551285 
+            text = "le" 
+        intervals [8]:
+            xmin = 1.1709044206551285 
+            xmax = 1.448185941043084 
+            text = "ga" 
+        intervals [9]:
+            xmin = 1.448185941043084 
+            xmax = 1.6623053619998898 
+            text = "die" 
+        intervals [10]:
+            xmin = 1.6623053619998898 
+            xmax = 1.811503689747254 
+            text = "in" 
+        intervals [11]:
+            xmin = 1.811503689747254 
+            xmax = 1.944322441061426 
+            text = "ge" 
+        intervals [12]:
+            xmin = 1.944322441061426 
+            xmax = 2.1923347193346947 
+            text = "deeld" 
+        intervals [13]:
+            xmin = 2.1923347193346947 
+            xmax = 2.410979688002542 
+            text = "was" 
+        intervals [14]:
+            xmin = 2.410979688002542 
+            xmax = 2.5380489752516913 
+            text = "in" 
+        intervals [15]:
+            xmin = 2.5380489752516913 
+            xmax = 2.660583236304774 
+            text = "de" 
+        intervals [16]:
+            xmin = 2.660583236304774 
+            xmax = 2.8536101512497263 
+            text = "vroe" 
+        intervals [17]:
+            xmin = 2.8536101512497263 
+            xmax = 2.9740103615432196 
+            text = "ge" 
+        intervals [18]:
+            xmin = 2.9740103615432196 
+            xmax = 3.3977631073846917 
+            text = "dienst" 
+        intervals [19]:
+            xmin = 3.3977631073846917 
+            xmax = 3.686841763995941 
+            text = "ging" 
+        intervals [20]:
+            xmin = 3.686841763995941 
+            xmax = 4.131661941855215 
+            text = "weg" 
+        intervals [21]:
+            xmin = 4.131661941855215 
+            xmax = 4.198333333333333 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "syllables" 
+        xmin = 0 
+        xmax = 4.198333333333333 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.05000569452988462 
+            text = "" 
+        intervals [2]:
+            xmin = 0.05000569452988462 
+            xmax = 0.2851126224208666 
+            text = "syl" 
+        intervals [3]:
+            xmin = 0.2851126224208666 
+            xmax = 0.5515569750106014 
+            text = "syl" 
+        intervals [4]:
+            xmin = 0.5515569750106014 
+            xmax = 0.6399928930503789 
+            text = "syl" 
+        intervals [5]:
+            xmin = 0.6399928930503789 
+            xmax = 0.7967612599488612 
+            text = "syl" 
+        intervals [6]:
+            xmin = 0.7967612599488612 
+            xmax = 0.9506302335353118 
+            text = "syl" 
+        intervals [7]:
+            xmin = 0.9506302335353118 
+            xmax = 1.1709044206551285 
+            text = "syl" 
+        intervals [8]:
+            xmin = 1.1709044206551285 
+            xmax = 1.448185941043084 
+            text = "syl" 
+        intervals [9]:
+            xmin = 1.448185941043084 
+            xmax = 1.6623053619998898 
+            text = "syl" 
+        intervals [10]:
+            xmin = 1.6623053619998898 
+            xmax = 1.811503689747254 
+            text = "syl" 
+        intervals [11]:
+            xmin = 1.811503689747254 
+            xmax = 1.944322441061426 
+            text = "syl" 
+        intervals [12]:
+            xmin = 1.944322441061426 
+            xmax = 2.1923347193346947 
+            text = "syl" 
+        intervals [13]:
+            xmin = 2.1923347193346947 
+            xmax = 2.410979688002542 
+            text = "syl" 
+        intervals [14]:
+            xmin = 2.410979688002542 
+            xmax = 2.5380489752516913 
+            text = "syl" 
+        intervals [15]:
+            xmin = 2.5380489752516913 
+            xmax = 2.660583236304774 
+            text = "syl" 
+        intervals [16]:
+            xmin = 2.660583236304774 
+            xmax = 2.8536101512497263 
+            text = "syl" 
+        intervals [17]:
+            xmin = 2.8536101512497263 
+            xmax = 2.9740103615432196 
+            text = "syl" 
+        intervals [18]:
+            xmin = 2.9740103615432196 
+            xmax = 3.3977631073846917 
+            text = "syl" 
+        intervals [19]:
+            xmin = 3.3977631073846917 
+            xmax = 3.686841763995941 
+            text = "syl" 
+        intervals [20]:
+            xmin = 3.686841763995941 
+            xmax = 4.131661941855215 
+            text = "syl" 
+        intervals [21]:
+            xmin = 4.131661941855215 
+            xmax = 4.198333333333333 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 4.198333333333333 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.05000569452988462 
+            text = "" 
+        intervals [2]:
+            xmin = 0.05000569452988462 
+            xmax = 0.2851126224208666 
+            text = "word" 
+        intervals [3]:
+            xmin = 0.2851126224208666 
+            xmax = 0.7967612599488612 
+            text = "word" 
+        intervals [4]:
+            xmin = 0.7967612599488612 
+            xmax = 1.448185941043084 
+            text = "word" 
+        intervals [5]:
+            xmin = 1.448185941043084 
+            xmax = 1.6623053619998898 
+            text = "word" 
+        intervals [6]:
+            xmin = 1.6623053619998898 
+            xmax = 2.1923347193346947 
+            text = "word" 
+        intervals [7]:
+            xmin = 2.1923347193346947 
+            xmax = 2.410979688002542 
+            text = "word" 
+        intervals [8]:
+            xmin = 2.410979688002542 
+            xmax = 2.5380489752516913 
+            text = "word" 
+        intervals [9]:
+            xmin = 2.5380489752516913 
+            xmax = 2.660583236304774 
+            text = "word" 
+        intervals [10]:
+            xmin = 2.660583236304774 
+            xmax = 2.9740103615432196 
+            text = "word" 
+        intervals [11]:
+            xmin = 2.9740103615432196 
+            xmax = 3.3977631073846917 
+            text = "word" 
+        intervals [12]:
+            xmin = 3.3977631073846917 
+            xmax = 3.686841763995941 
+            text = "word" 
+        intervals [13]:
+            xmin = 3.686841763995941 
+            xmax = 4.131661941855215 
+            text = "word" 
+        intervals [14]:
+            xmin = 4.131661941855215 
+            xmax = 4.198333333333333 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "phrase" 
+        xmin = 0 
+        xmax = 4.198333333333333 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.9740103615432196 
+            text = "" 
+        intervals [2]:
+            xmin = 2.9740103615432196 
+            xmax = 4.198333333333333 
+            text = "" 
